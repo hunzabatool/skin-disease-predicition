@@ -30,3 +30,9 @@ whitenoise==6.0.0 You can install the dependencies using pip:
 other dependencies are available requirement.txt file and you can install these dependencies just one commond
 
   pip install -r requirements.txt
+Usage
+After installing dependencies which are mention in requirements.txt file
+
+Go To New Terminal of code editor
+Type command
+python manage.py runserver
